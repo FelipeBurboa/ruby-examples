@@ -15,5 +15,5 @@ puts num_flotante2.class
 puts otra_suma.class
 #suma de intenger y float
 suma_final= la_suma + otra_suma
-puts suma_final
+puts suma_final + 1
 puts suma_final.class
